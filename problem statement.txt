@@ -1,0 +1,9 @@
+
+[Qtec Problem 2]
+ 
+Write a program which will find all occurrences of a pattern in a text .Suppose there is a text “tadadattaetadadadafa” and a  pattern “dada”, now you have to find how many times “dada” appear in “tadadattaetadadadafa” . Here the pattern (dada) appears in text (tadadattaetadadadafa) 3 times .
+ 
+NB :  Instead of using a builtin function,  write your code from scratch . And also write a little documentation about  how your algorithm works
+ 
+How to submit:
+Add your work in a public git repo. Just send the link [5 Marks]
