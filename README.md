@@ -1,3 +1,5 @@
-# Qtec-Task-p2
+## Qtec-Task-p2
 
-# Documentations are given as comments, besides every line of codes
+# Please see the python.py file (for the work)
+
+## Documentations are given as comments, besides every line of codes
